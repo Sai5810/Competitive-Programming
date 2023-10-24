@@ -1,0 +1,3 @@
+C:/Users/saiva/CLionProjects/Two Substrings/cmake-build-debug/CMakeFiles/Two_Substrings.dir
+C:/Users/saiva/CLionProjects/Two Substrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saiva/CLionProjects/Two Substrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

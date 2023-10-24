@@ -1,0 +1,3 @@
+C:/Users/saiva/CLionProjects/Divisibility by Eight/cmake-build-debug/CMakeFiles/Divisibility_by_Eight.dir
+C:/Users/saiva/CLionProjects/Divisibility by Eight/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saiva/CLionProjects/Divisibility by Eight/cmake-build-debug/CMakeFiles/rebuild_cache.dir

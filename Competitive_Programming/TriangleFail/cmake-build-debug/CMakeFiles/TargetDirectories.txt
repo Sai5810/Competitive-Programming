@@ -1,0 +1,3 @@
+C:/Users/saiva/CLionProjects/TriangleProject/cmake-build-debug/CMakeFiles/TriangleProject.dir
+C:/Users/saiva/CLionProjects/TriangleProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saiva/CLionProjects/TriangleProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

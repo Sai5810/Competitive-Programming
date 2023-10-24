@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Divisibility_by_Eight.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Divisibility_by_Eight.dir/objects.a @CMakeFiles\Divisibility_by_Eight.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Divisibility_by_Eight.dir/objects.a -Wl,--no-whole-archive -o Divisibility_by_Eight.exe -Wl,--out-implib,libDivisibility_by_Eight.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Divisibility_by_Eight.dir\linklibs.rsp

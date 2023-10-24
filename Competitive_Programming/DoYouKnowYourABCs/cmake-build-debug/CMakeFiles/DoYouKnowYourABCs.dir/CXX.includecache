@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/saiva/CLionProjects/DoYouKnowYourABCs/main.cpp
+iostream
+-
+vector
+-
+stack
+-
+tuple
+-
+set
+-
+string
+-
+chrono
+-
+

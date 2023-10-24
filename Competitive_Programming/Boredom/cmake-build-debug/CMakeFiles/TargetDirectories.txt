@@ -1,0 +1,3 @@
+C:/Users/saiva/CLionProjects/Boredom/cmake-build-debug/CMakeFiles/Boredom.dir
+C:/Users/saiva/CLionProjects/Boredom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saiva/CLionProjects/Boredom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
